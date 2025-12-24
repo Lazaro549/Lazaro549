@@ -80,4 +80,4 @@ Grow as an **AI & Robotics Engineer**, contribute to innovative projects, and co
 
 ---
 
-⭐ *Thank you for visiting my profile. ¡Feel
+⭐ Thank you for visiting my profile. ¡Feel
