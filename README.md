@@ -23,7 +23,6 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 - HTML </>
 - PHP 
 - SQL 
-- SQL
 - JS
 - Python 🐍
 - C++ 🧩
@@ -35,10 +34,10 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 **IA & Data**
 - Grok
 - ChatGPT
-- Gemini
-- Meta
-- Perplexity
-- Claude
+- Gemini 💎 
+- Meta ∞
+- Perplexity 📖
+- Claude 
 - Microsoft copilot
 - GitHub copilot
 - Amazon Q
@@ -55,6 +54,7 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 - Bash
 - MySQL
 - AWS
+- CodeBlock
 ---
 
 > 👉 See more in my repositories 👇
