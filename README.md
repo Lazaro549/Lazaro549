@@ -61,9 +61,7 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 ---
 
 ## 📈 What I'm working on now
-- Strengthening AI
-- AI in numbers
-- Strengthening C++
+- Projects
 
 ---
 
