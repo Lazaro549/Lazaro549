@@ -49,7 +49,6 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 **Dev & Tools**
 - GitHub
 - Localhost
-- Minibloq
 - VSC
 - Bash
 - MySQL
