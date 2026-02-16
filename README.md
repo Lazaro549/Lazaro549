@@ -42,7 +42,7 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 - GitHub copilot
 - Amazon Q
 
-**Robótica**
+**Robótic**
 - MiniBloq
 - Arduino 
 
