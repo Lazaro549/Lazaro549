@@ -61,7 +61,7 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 ---
 
 ## 📈 What I'm working on now
-- Repositoires
+- repositories
 - Web Page 
 ---
 
