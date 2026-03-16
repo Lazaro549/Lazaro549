@@ -1,6 +1,6 @@
 # 👋 ¡Hi! Am Lazaro
 
-🤖 **Junior AI & Robotics Developer**  
+🤖 **AI & Robotics Developer**  
 📍 Argentina  
  
 Passionate about **Artificial Intelligence**, **Robotics**, and developing solutions that combine software and hardware. I enjoy learning by building real-world projects, experimenting with new technologies, and collaborating on technical teams.
