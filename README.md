@@ -41,7 +41,8 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 - Microsoft copilot
 - GitHub copilot
 - Amazon Q
-
+- Lovable
+  
 **Robótic**
 - MiniBloq
 - Arduino 
