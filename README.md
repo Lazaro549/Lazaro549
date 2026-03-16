@@ -67,7 +67,7 @@ Here are some of the most interesting / recent repositories:
 
 Many other learning repositories (GitHub Skills, calculator, merge conflicts practice, etc.) show consistent effort to improve.
 
-→ Full list: [github.com/Lazaro549?tab=repositories](https://github.com/Lazaro549?tab=repositories) (17 public repositories)
+→ Full list: [github.com/Lazaro549?tab=repositories](https://github.com/Lazaro549?tab=repositories) 
 
 ---
 
