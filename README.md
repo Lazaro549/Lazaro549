@@ -5,7 +5,7 @@
 📧 lazarogvitolo@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/lazaro-gomez-vitolo-532109340](https://www.linkedin.com/in/lazaro-gomez-vitolo-532109340/)  
 🐙 GitHub: [github.com/Lazaro549](https://github.com/Lazaro549)  
-🌐 Portfolio: in progress (coming soon!)
+🌐 Portfolio: https://lazaro549.github.io/Portafolio/
 
 ---
 
