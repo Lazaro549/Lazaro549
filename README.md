@@ -1,5 +1,5 @@
 # Lazaro Gomez Vitolo  
-**AI & Robotics Developer** | Python • Node.js • AWS
+**AI & Robotics Developer** 
 
 📍 Mar del Plata, Buenos Aires, Argentina  
 📧 lazarogvitolo@gmail.com  
