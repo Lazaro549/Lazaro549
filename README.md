@@ -1,13 +1,4 @@
 # Lazaro Gomez Vitolo  
-**AI & Robotics Developer** 
-
-📍 Mar del Plata, Buenos Aires, Argentina  
-📧 lazarogvitolo@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/lazaro-gomez-vitolo-532109340](https://www.linkedin.com/in/lazaro-gomez-vitolo-532109340/)  
-🐙 GitHub: [github.com/Lazaro549](https://github.com/Lazaro549)  
-🌐 Portfolio: https://lazaro549.github.io/Portafolio/
-
----
 
 ## 👋 About Me
 
