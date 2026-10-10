@@ -18,7 +18,7 @@ I learn by shipping real projects, experimenting with emerging technologies, and
 ## 🛠️ Tech Stack & Tools
 
 **Languages**  
-Python 🐍 • JavaScript / Node.js • PHP • C++ • C# • Rust • Lua • Java • HTML/CSS • SQL • Bash
+Python 🐍 • JavaScript / Node.js • PHP • HTML/CSS • Bash
 
 **AI / LLM / Data**  
 Grok • ChatGPT • Gemini • Claude • Perplexity • Meta AI • GitHub Copilot • Amazon Q • Lovable
