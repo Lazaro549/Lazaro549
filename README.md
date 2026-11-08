@@ -27,7 +27,7 @@ Grok • ChatGPT • Gemini • Claude • Perplexity • Meta AI • GitHub Cop
 Arduino • MiniBloq • Computer Vision • Control Systems • Simulation
 
 **Cloud & Dev Tools**  
-AWS (SageMaker, generative models) • Git & GitHub • VS Code • MySQL • Localhost • Code::Blocks
+AWS (SageMaker, generative models) • Git & GitHub • VS Code • MySQL • Localhost 
 
 ---
 
